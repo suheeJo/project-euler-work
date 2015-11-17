@@ -1,0 +1,11 @@
+# Java class files
+*.class
+
+# Eclipse project files
+bin/
+.cache
+.classpath
+.project
+.metadata
+.settings
+.groovy
